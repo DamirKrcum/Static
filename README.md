@@ -1,1 +1,1 @@
-static2
+Static dinamicki niz tipa Osoba
